@@ -1,2 +1,2 @@
 # Food-Delivery-Website
-It's a food ordering website with a beautiful UI 
+It's a UI bases food ordering website using HTML5 and CSS only.
